@@ -38,6 +38,14 @@
   </a>
 </p>
 
+## Star History
+
+<p align="center">
+  <a href="https://star-history.com/#wanda-OS-dev/wanda&Date">
+    <img src="https://api.star-history.com/svg?repos=wanda-OS-dev/wanda&type=Date" alt="Star history for wanda-OS-dev/wanda" />
+  </a>
+</p>
+
 ## Working Areas
 
 - Memory consolidation and retrieval workflows
