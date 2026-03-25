@@ -12,22 +12,31 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wanda-OS-dev">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=wanda-OS-dev&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=tokyonight&hide_border=true" alt="wanda-OS-dev GitHub stats" />
+  <img src="https://img.shields.io/github/followers/wanda-OS-dev?label=Followers&style=for-the-badge&logo=github&color=0f172a" alt="wanda-OS-dev followers" />
+  <img src="https://komarev.com/ghpvc/?username=wanda-OS-dev&style=for-the-badge&color=111827" alt="wanda-OS-dev profile views" />
+  <img src="https://img.shields.io/badge/Public%20Repos-5-1f2937?style=for-the-badge&logo=github" alt="wanda-OS-dev public repos" />
+  <img src="https://img.shields.io/github/stars/wanda-OS-dev/wanda?label=wanda%20Stars&style=for-the-badge&logo=github&color=334155" alt="wanda stars" />
+</p>
+
+## Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/wanda-OS-dev/wanda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanda-OS-dev&repo=wanda&theme=tokyonight&hide_border=true" alt="wanda repository card" />
   </a>
-  <a href="https://github.com/wanda-OS-dev">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanda-OS-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="wanda-OS-dev top languages" />
+  <a href="https://github.com/wanda-OS-dev/wandasystems-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanda-OS-dev&repo=wandasystems-site&theme=tokyonight&hide_border=true" alt="wandasystems-site repository card" />
   </a>
 </p>
 
-## Signature Systems
-
-| System | Role |
-| --- | --- |
-| [wanda](https://github.com/wanda-OS-dev/wanda) | Autonomous AI system for operational workflows, memory-driven execution, and voice interaction |
-| [wandasystems-site](https://github.com/wanda-OS-dev/wandasystems-site) | Public company website and brand surface for WandaSystems |
-| [wanda-portfolio](https://github.com/wanda-OS-dev/wanda-portfolio) | Visual showcase for product presentation and technical positioning |
-| [WandaSystems](https://github.com/WandaSystems) | Core organization profile and umbrella for the broader systems portfolio |
+<p align="center">
+  <a href="https://github.com/wanda-OS-dev/wanda-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanda-OS-dev&repo=wanda-portfolio&theme=tokyonight&hide_border=true" alt="wanda-portfolio repository card" />
+  </a>
+  <a href="https://github.com/wanda-OS-dev/wanda-OS-dev.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanda-OS-dev&repo=wanda-OS-dev.github.io&theme=tokyonight&hide_border=true" alt="wanda-OS-dev.github.io repository card" />
+  </a>
+</p>
 
 ## Working Areas
 
@@ -44,3 +53,9 @@ Wanda is developed in close collaboration with [Jannis S.](https://github.com/Ja
 
 - Organization: [WandaSystems](https://github.com/WandaSystems)
 - Website: [WandaSystems on GitHub Pages](https://wanda-os-dev.github.io/wandasystems-site/)
+
+<p align="center">
+  <a href="https://github.com/wanda-OS-dev">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanda-OS-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="wanda-OS-dev top languages" />
+  </a>
+</p>
