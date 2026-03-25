@@ -42,7 +42,11 @@
 
 <p align="center">
   <a href="https://star-history.com/#wanda-OS-dev/wanda&Date">
-    <img src="https://api.star-history.com/svg?repos=wanda-OS-dev/wanda&type=Date" alt="Star history for wanda-OS-dev/wanda" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=wanda-OS-dev/wanda&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=wanda-OS-dev/wanda&type=Date" />
+      <img src="https://api.star-history.com/svg?repos=wanda-OS-dev/wanda&type=Date" alt="Star history for wanda-OS-dev/wanda" />
+    </picture>
   </a>
 </p>
 
