@@ -16,16 +16,22 @@
   <img src="https://komarev.com/ghpvc/?username=wanda-OS-dev&style=for-the-badge&color=111827" alt="wanda-OS-dev profile views" />
 </p>
 
-## Featured Repositories
+## Featured
 
-<p align="center">
-  <a href="https://github.com/wanda-OS-dev/wandasystems-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanda-OS-dev&repo=wandasystems-site&theme=tokyonight&hide_border=true" alt="wandasystems-site repository card" />
-  </a>
-  <a href="https://github.com/wanda-OS-dev/wanda-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanda-OS-dev&repo=wanda-portfolio&theme=tokyonight&hide_border=true" alt="wanda-portfolio repository card" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/wanda-OS-dev/wandasystems-site">
+<img src="https://img.shields.io/badge/wandasystems--site-Company_Website_(Astro)-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="wandasystems-site" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/wanda-OS-dev/wanda-portfolio">
+<img src="https://img.shields.io/badge/wanda--portfolio-Technical_Showcase_(Next.js)-111827?style=for-the-badge&logo=github&logoColor=white" alt="wanda-portfolio" />
+</a>
+</td>
+</tr>
+</table>
 
 ## Working Areas
 
@@ -43,9 +49,3 @@ Wanda is developed in close collaboration with [Jannis S.](https://github.com/Ja
 - Organization: [WandaSystems](https://github.com/WandaSystems)
 - Flagship: [WANDA](https://github.com/WandaSystems/WANDA)
 - Website: [WandaSystems on GitHub Pages](https://wanda-os-dev.github.io/wandasystems-site/)
-
-<p align="center">
-  <a href="https://github.com/wanda-OS-dev">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanda-OS-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="wanda-OS-dev top languages" />
-  </a>
-</p>
